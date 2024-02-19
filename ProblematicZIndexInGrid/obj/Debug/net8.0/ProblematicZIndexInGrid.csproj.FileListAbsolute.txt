@@ -1,0 +1,13 @@
+C:\Users\mfj.DALUX\source\repos\ProblematicZIndexInGrid\ProblematicZIndexInGrid\bin\Debug\net8.0\ProblematicZIndexInGrid.deps.json
+C:\Users\mfj.DALUX\source\repos\ProblematicZIndexInGrid\ProblematicZIndexInGrid\bin\Debug\net8.0\ProblematicZIndexInGrid.dll
+C:\Users\mfj.DALUX\source\repos\ProblematicZIndexInGrid\ProblematicZIndexInGrid\bin\Debug\net8.0\ProblematicZIndexInGrid.pdb
+C:\Users\mfj.DALUX\source\repos\ProblematicZIndexInGrid\ProblematicZIndexInGrid\obj\Debug\net8.0\ProblematicZIndexInGrid.csproj.AssemblyReference.cache
+C:\Users\mfj.DALUX\source\repos\ProblematicZIndexInGrid\ProblematicZIndexInGrid\obj\Debug\net8.0\ProblematicZIndexInGrid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mfj.DALUX\source\repos\ProblematicZIndexInGrid\ProblematicZIndexInGrid\obj\Debug\net8.0\ProblematicZIndexInGrid.AssemblyInfoInputs.cache
+C:\Users\mfj.DALUX\source\repos\ProblematicZIndexInGrid\ProblematicZIndexInGrid\obj\Debug\net8.0\ProblematicZIndexInGrid.AssemblyInfo.cs
+C:\Users\mfj.DALUX\source\repos\ProblematicZIndexInGrid\ProblematicZIndexInGrid\obj\Debug\net8.0\ProblematicZIndexInGrid.csproj.CoreCompileInputs.cache
+C:\Users\mfj.DALUX\source\repos\ProblematicZIndexInGrid\ProblematicZIndexInGrid\obj\Debug\net8.0\XamlC.stamp
+C:\Users\mfj.DALUX\source\repos\ProblematicZIndexInGrid\ProblematicZIndexInGrid\obj\Debug\net8.0\ProblematicZIndexInGrid.dll
+C:\Users\mfj.DALUX\source\repos\ProblematicZIndexInGrid\ProblematicZIndexInGrid\obj\Debug\net8.0\refint\ProblematicZIndexInGrid.dll
+C:\Users\mfj.DALUX\source\repos\ProblematicZIndexInGrid\ProblematicZIndexInGrid\obj\Debug\net8.0\ProblematicZIndexInGrid.pdb
+C:\Users\mfj.DALUX\source\repos\ProblematicZIndexInGrid\ProblematicZIndexInGrid\obj\Debug\net8.0\ref\ProblematicZIndexInGrid.dll
